@@ -1,0 +1,20 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    gap:15px;
+    background-color: rgb(243, 160, 6);
+}
+
+#search_input{
+    width: 70%;
+    border-radius: 15px;
+    height: 27px;
+    margin-top: 15px;
+}
+h3>a{
+    text-decoration: none;
+}
+h3>a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

@@ -1,0 +1,21 @@
+#sidebar{
+    background-color: rgb(255, 178, 36);
+    width: 200px;
+    height: 480px;
+    border: 1px solid;
+
+
+}
+#m{
+    display: flex;
+   
+}
+
+#sidebar>h3{
+    margin-left: 15px;
+    width: 150px;
+}
+h3~h3{
+    border: 1px solid blue;
+    background-color: teal;
+}
